@@ -5,14 +5,10 @@ Description: -Build a service that fetches and displays weather information base
 #Please install all the dependencies before running the program
 Initialize a new Node.js project by creating a package.json file:
 
-bash
-Copy code
 npm init -y
 This will create a package.json file with default settings.
 
-4. Install Required Packages
-Install the necessary packages: express for creating the server, axios for making HTTP requests, and dotenv for managing environment variables:
+Install Required Packages
+Install the necessary packages: express for creating the server, axios for making HTTP requests, and dotenv for managing environment variables
 
-bash
-Copy code
 npm install express axios dotenv
